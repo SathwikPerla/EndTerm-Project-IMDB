@@ -1,6 +1,6 @@
 # 🎬 MovieMania — An IMDb Clone Built with React
 
-# [Try out this Latest Working Link 👉](https://beamish-parfait-549a43.netlify.app)
+# [Try out this Latest Working Link (Yeah Click Me)](https://beamish-parfait-549a43.netlify.app)
 
 Welcome to **MovieMania**, a stylish and functional IMDb-inspired movie app built with ⚛️ **React**. This application showcases all the latest movies and allows users to explore in-depth details, save favorites, and plan their watchlist! 🍿
 
