@@ -40,6 +40,9 @@ Welcome to **MovieMania**, a stylish and functional IMDb-inspired movie app buil
 
 ---
 
+## 📂 Folder Structure
+
+```
 📁 src/
 ├── 📁 components/
 │   ├── MovieCard.jsx
@@ -73,4 +76,4 @@ Welcome to **MovieMania**, a stylish and functional IMDb-inspired movie app buil
 ├── App.js
 ├── index.js
 └── routes.js
-
+```
