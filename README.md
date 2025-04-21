@@ -41,4 +41,39 @@ Welcome to **MovieMania**, a stylish and functional IMDb-inspired movie app buil
 ---
 
 ## 📂 Folder Structure
-src/ │ ├── components/ # Reusable UI components (MovieCard, Navbar, etc.) ├── pages/ # Pages like Home, Favorites, Watchlist, Details ├── services/ # API service functions ├── css/ # All custom CSS files └── App.js # Main App routing
+📁 src/
+│
+├── 📁 components/          
+│   ├── MovieCard.jsx
+│   ├── Navbar.jsx
+│   └── ThemeToggle.jsx
+│
+├── 📁 pages/              
+│   ├── Home.jsx
+│   ├── Favorites.jsx
+│   ├── Watchlist.jsx
+│   ├── MovieDetails.jsx
+│   └── Recommendations.jsx (coming soon)
+│
+├── 📁 services/           
+│   └── api.js
+│
+├── 📁 css/             
+│   ├── Home.css
+│   ├── Favorites.css
+│   ├── Watchlist.css
+│   ├── MovieDetails.css
+│   |── App.css
+│   |── Navbar.css  
+|   |── ThemeToggle.css
+│   |── MovieDetails.css
+│   |──index.css
+│
+│
+├── 📁 contexts/
+│    ├── MovieContext.jsx
+│    ├──  ThemeContext.jsx
+│ 
+├── App.js                 
+├── index.js              
+└── routes.js              
