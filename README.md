@@ -41,4 +41,4 @@ Welcome to **MovieMania**, a stylish and functional IMDb-inspired movie app buil
 ---
 
 ## 📂 Folder Structure
-
+src/ │ ├── components/ # Reusable UI components (MovieCard, Navbar, etc.) ├── pages/ # Pages like Home, Favorites, Watchlist, Details ├── services/ # API service functions ├── css/ # All custom CSS files └── App.js # Main App routing
